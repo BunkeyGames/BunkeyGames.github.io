@@ -11,6 +11,7 @@
 
 
 html, body{
+	logo-image: url(../img/logo.png);
 	background-color: #090B0F;
 }
 
@@ -33,7 +34,6 @@ a{
 	transition: .2s ease-in all;
 }
 .site-title{
-	site-title: url('{{ site.baseurl }}/img/logo.png');
 	margin: 0;
 	font-size: 3em;
 	text-align: center;
