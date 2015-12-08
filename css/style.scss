@@ -9,6 +9,13 @@
 @import 'anims';
 @import 'monokai';
 
+---
+---
+
+header {
+  background-image: url('{{ site.baseurl }}/img/bg.png');
+}
+
 html, body{
 	background-color: #eee;
 }
