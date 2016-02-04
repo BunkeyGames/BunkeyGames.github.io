@@ -15,8 +15,6 @@ We are Bunkey Games, a small indie game studio based in Michigan. We are compris
 
 ##About Our Team
 
-![alt tag](/img/Collin.png) 
-![alt tag](/img/Jayce.png)
-![alt tag](/img/Jacob.png)
+![alt tag](/img/Group.png) 
 <a href="mailto:collin@bunkeygames.com?Subject=Hello%20again" target="_top"><i class="fa fa-envelope"></i>Email  Collin</a> <a href="http://twitter.com/ChuzzyLumpkin" target="_top"><i class="fa fa-twitter"></i>Tweet  Collin</a>  <a href="http://steamcommunity.com/id/ChuzzyLumpkin" target="_top"><i class="fa fa-steam"></i>Find Collin on Steam</a> 
 <a href="mailto:jayce@bunkeygames.com?Subject=Hello%20again" target="_top"><i class="fa fa-envelope"></i>Email Jayce</a> <a href="http://steamcommunity.com/id/echo_098" target="_top"><i class="fa fa-steam"></i>Find Jayce on Steam</a> 
