@@ -8,7 +8,7 @@ sitemap:
 ---
 # Games
 
-[ ![alt tag][1]](/g/graplr)
+[ ![alt tag][1]](/g/projectflip)
 
 [1]: /img/graplrheader.png
 
