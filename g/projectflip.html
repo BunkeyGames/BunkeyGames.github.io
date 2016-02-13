@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Project Flip Demo
+title: Error 404
 ---
-
 <!doctype html>
 <div id="home" class="grid post">
 <div class="unit whole">
@@ -16,19 +15,18 @@ title: Project Flip Demo
     </style>
   </head>
   <body>
-    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="850px"></canvas>
     <script type='text/javascript'>
   var Module = {
     TOTAL_MEMORY: 536870912,
     errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
     compatibilitycheck: null,
-    dataUrl: "Release/BunkeyGames.github.io.data",
-    codeUrl: "Release/BunkeyGames.github.io.js",
-    memUrl: "Release/BunkeyGames.github.io.mem",
+    dataUrl: "Release/g.data",
+    codeUrl: "Release/g.js",
+    memUrl: "Release/g.mem",
   };
 </script>
 <script src="Release/UnityLoader.js"></script>
-
   </body>
 </html>
 </div>
