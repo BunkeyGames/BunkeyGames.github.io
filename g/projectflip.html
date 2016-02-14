@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Project Flip Demo
+title: Project Flip
 ---
-
 <!doctype html>
 <div id="home" class="grid post">
 <div class="unit whole">
 <html lang="en-us">
   <head>
+	<h1>Project Flip (Working Title) Public Demo</h1>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Project Flip Demo</title>
@@ -16,19 +16,26 @@ title: Project Flip Demo
     </style>
   </head>
   <body>
-    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="890px"></canvas>
     <script type='text/javascript'>
   var Module = {
     TOTAL_MEMORY: 536870912,
     errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
     compatibilitycheck: null,
-    dataUrl: "Release/BunkeyGames.github.io.data",
-    codeUrl: "Release/BunkeyGames.github.io.js",
-    memUrl: "Release/BunkeyGames.github.io.mem",
+    dataUrl: "Release/g.data",
+    codeUrl: "Release/g.js",
+    memUrl: "Release/g.mem",
   };
 </script>
 <script src="Release/UnityLoader.js"></script>
-
+	<h2>Give us feedback.</h2>
+	<a href="http://twitter.com/BunkeyGames" target="_top"><i class="fa fa-twitter"></i>Tweet  Us</a>  <a href="http://steamcommunity.com/id/BunkeyGames" target="_top"><i class="fa fa-steam"></i>Find us on Steam</a> <a href="http://youtube.com/BunkeyGames" target="_top"><i class="fa fa-youtube-play"></i>Subscribe to us</a> 
+<form action="//formspree.io/main@bunkeygames.com"
+      method="POST">
+    <input type="text" name="name" placeholder="Name"> <br><input type="email" name="_replyto" placeholder="Email"><br>
+	<textarea placeholder="Your message" rows="5" name="message"></textarea><br>
+    <input type="submit" value="Send">
+</form> 
   </body>
 </html>
 </div>

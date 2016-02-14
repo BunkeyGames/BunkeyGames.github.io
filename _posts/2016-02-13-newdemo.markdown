@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "New project/web demo!"
+date:   2016-2-13 16:04:00
+categories: 
+---
+
+## We've just released a new Web demo for an upcoming project!
+
+We're very excited to finally get something out in the open for once! Feel free to go to the games tab, click on "Project Flip", and give the demo a go! (Right in your browser!) Also, we would greatly appreciate some feedback (a form is available on the game page! :D)
+
+Happy Playing!
+
+-Collin
+
