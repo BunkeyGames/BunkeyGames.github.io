@@ -8,8 +8,8 @@ layout: press
 
   <header>
   {% for file in site.static_files %}
-    {% if file.path == '/images/header.png' %}
-    <img src='images/header.png' class='header'>
+    {% if file.path == '/img/header1.png' %}
+    <img src='img/header1.png' class='header'>
     {% endif %}
   {% endfor %}
   </header>
@@ -99,7 +99,7 @@ layout: press
     {% for file in site.static_files %}
       {% assign image = file.path | split: '/' %}
       {% assign filename = image | last %}
-      {% if image[1] == 'images' and filename != 'header.png' and filename != 'logo.png' and filename != 'icon.png' %}
+      {% if image[1] == 'images' and filename != 'header1.png' and filename != 'logo1.png' and filename != 'icon.png' %}
       <div class='masonry-item'>
         <a href='{{file.path | remove_first:'/'}}'>
           <img src='{{file.path | remove_first:'/'}}' alt='{{image | last}}' />
@@ -117,8 +117,8 @@ layout: press
     <a href='images/logo.zip' class='notice'>download all logo files</a>
 
     <div>
-      <a href='images/logo.png'>
-        <img src='images/logo.png' alt='logo' />
+      <a href='img/logo1.png'>
+        <img src='img/logo1.png' alt='logo' />
       </a>
     </div>
   </div>
