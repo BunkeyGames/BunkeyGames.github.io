@@ -1,3 +1,8 @@
+title: Press Kit
+description: A press kit kit!
+collections:
+  games:
+    output: true
 ##The website title
 name: Bunkey Games
 ##Markdown processor
