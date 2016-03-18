@@ -8,7 +8,4 @@ sitemap:
 ---
 # Flipr
 
-[ ![alt tag][1]](/g/projectflip)
-
-[1]: /img/flipheader.png
-
+[![Flipr - Gameplay Trailer](http://i.imgur.com/3qbq8mT.png)](https://www.youtube.com/watch?v=kI7cIJxx9uQ "Flipr - Gameplay Trailer")
