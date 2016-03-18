@@ -8,4 +8,4 @@ sitemap:
 ---
 # Flipr
 
-[![Flipr - Gameplay Trailer](http://i.imgur.com/3qbq8mT.png)](https://www.youtube.com/watch?v=kI7cIJxx9uQ "Flipr - Gameplay Trailer")
+<iframe width="950" height="534" src="//www.youtube.com/embed/kI7cIJxx9uQ" frameborder="0" allowfullscreen></iframe>
