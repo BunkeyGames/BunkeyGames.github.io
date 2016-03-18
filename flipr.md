@@ -8,4 +8,4 @@ sitemap:
 ---
 # Flipr
 
-<iframe width="950" height="534" src="//www.youtube.com/embed/kI7cIJxx9uQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="506" src="//www.youtube.com/embed/kI7cIJxx9uQ" frameborder="1" allowfullscreen></iframe>
