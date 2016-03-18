@@ -8,7 +8,7 @@ sitemap:
 ---
 # Games
 
-[ ![alt tag][1]](/flipr)
+[ ![alt tag][1]](/g/flipr)
 
 [1]: /img/flipheader.png
 
